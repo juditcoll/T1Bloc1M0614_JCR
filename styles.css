@@ -37,6 +37,25 @@ section h2 {
 
 section h3 {
   color: #606d75;
+  margin: 0;
+}
+
+article {
+  padding: 20px;
+  border-radius: 10px;
+  border: solid 1px #b0a099;
+  margin: 20px;
+}
+
+.contenidor{
+  display:flex;
+  align-items: center;
+  gap: 20px;
+}
+
+img {
+  width: 150px;
+  border-radius: 8px;
 }
 
 footer {
